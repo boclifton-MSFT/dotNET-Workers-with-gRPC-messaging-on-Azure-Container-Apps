@@ -9,7 +9,7 @@ on:
 env:
   
   # alphanumeric string under 14 characters
-  RESOURCE_GROUP_NAME: containerappsdemo
+  RESOURCE_GROUP_NAME: bcmsftcontainerappsdemo
 
   # specify your preferred region
   REGION: southcentralus
